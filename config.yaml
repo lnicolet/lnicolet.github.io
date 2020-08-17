@@ -13,6 +13,9 @@ markup:
     endLevel: 6
     ordered: false
 
+# for github pages
+publishDir: docs
+
 # Enable Google Analytics
 # googleAnalytics: UA-XXXXXXXXX-X
 
