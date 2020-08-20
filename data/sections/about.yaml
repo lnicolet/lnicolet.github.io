@@ -16,7 +16,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "I am a passionate Android Engineer with 4+ years of experience. My main goals are to write quality, reusable and testable code. Recently started speaking at conferences, performing at different international events. On the side I'm a passionate photographer 📷, an avid reader 📚, a sports' addict 🏋🏼‍♀️ and food lover 🍛."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -31,16 +31,16 @@ socialLinks:
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://stackoverflow.com/users/6439023/luca-nicoletti"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/luca-nicoletti-7171b1ab/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://www.twitter.com/luca_nicolett"
 
 - name: Instagram
   icon: "fab fa-instagram"
-  url: "#"
+  url: "https://www.instagram.com/luca.nicolett"

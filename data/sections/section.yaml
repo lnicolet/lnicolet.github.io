@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Babylon Health
+    url: "https://www.babylonhealth.com"
+    location: London, UK
+  positions:
+  - designation: Senior Android Engineer
+    start: Jul 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - TO DO
+
+- company:
+    name: Monese
+    url: "https://www.monese.com"
+    location: London, UK
+  positions:
+  - designation: Android Engineer
+    start: Nov 2018
+    end: Jun 2019
+    responsibilities:
+    - TO DO
+
+- company:
+    name: NTT Data
+    url: "https://it.nttdata.com/"
+    location: Italy
+  positions:
+  - designation: Android Developer
+    start: Jun 2017
+    end: OCt 2018
+    responsibilities:
+    - TO DO
